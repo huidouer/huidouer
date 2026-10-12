@@ -8,8 +8,8 @@
 
 这里会逐步记录我的开发实践、设计取舍和持续维护的工具。
 
-**关注方向：**开发者工具 · AI 工程 · 设计系统
+**关注方向：** 开发者工具 · AI 工程 · 设计系统
 
-**项目空间：**[Lanshang Labs](https://github.com/lanshang-labs)
+**项目空间：** [Lanshang Labs](https://github.com/lanshang-labs)
 
 [GitHub](https://github.com/huidouer) · [Lanshang Labs](https://github.com/lanshang-labs)
